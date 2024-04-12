@@ -61,5 +61,5 @@ jobs:
         with:
           app-name: 'ReactAppPipeline'
           slot-name: 'Production'
-          package: .
+          package: ./dist
           
